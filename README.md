@@ -102,9 +102,9 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| 🔍 Network Security Audit Report | A mock security audit report documenting network vulnerabilities, risk levels, and recommendations — based on real-world sysadmin experience | [View Repo](#) |
-| 🚨 Incident Response Playbook | A structured playbook for responding to common cybersecurity threats including phishing, brute force, and malware attacks | [View Repo](#) |
-| 📚 Cybersecurity Study Notes | Documented notes and key takeaways from Cisco Networking Academy and Alison Academy cybersecurity courses | [View Repo](#) |
+| 🔍 Network Security Audit Report | A mock security audit report documenting network vulnerabilities, risk levels, and recommendations — based on real-world sysadmin experience | https://github.com/theodoredanielakinkeji/network-security-audit/blob/main/README.md |
+| 🚨 Incident Response Playbook | A structured playbook for responding to common cybersecurity threats including phishing, brute force, and malware attacks | https://github.com/theodoredanielakinkeji/incident-response-playbook/blob/main/README.md |
+| 📚 Cybersecurity Study Notes | Documented notes and key takeaways from Cisco Networking Academy and Alison Academy cybersecurity courses | https://github.com/theodoredanielakinkeji/cybersecurity-study-notes-/blob/main/README.md |
 
 ---
 

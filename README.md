@@ -120,7 +120,7 @@
 
 ## 🗂️ Projects
 
-| Project | Description | Link | Tools Used |
+| Project | Description | Link |
 |---------|-------------|------|
 ## 📌 Featured Projects
 

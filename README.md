@@ -134,6 +134,15 @@
 
 ---
 
+## 📢 Recent Activity & Writing
+
+- 🔐 [Why Cybersecurity Matters — And Why I'm Learning It at Redynox](https://www.linkedin.com/in/theodore-daniel-akinkeji/recent-activity/all/) *(LinkedIn Article)*
+- 🎓 [Started My Cyber Security Internship at Redynox](https://www.linkedin.com/in/theodore-daniel-akinkeji/recent-activity/all/) *(LinkedIn Post)*
+
+> 💬 *I document my cybersecurity learning journey publicly — follow along on [LinkedIn](https://www.linkedin.com/in/theodore-daniel-akinkeji/)*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -147,13 +156,6 @@
 <div align="center">
 
 ---
-
-## 📢 Recent Activity & Writing
-
-- 🔐 [Why Cybersecurity Matters — And Why I'm Learning It at Redynox](https://www.linkedin.com/in/theodore-daniel-akinkeji/recent-activity/all/) *(LinkedIn Article)*
-- 🎓 [Started My Cyber Security Internship at Redynox](https://www.linkedin.com/in/theodore-daniel-akinkeji/recent-activity/all/) *(LinkedIn Post)*
-
-> 💬 *I document my cybersecurity learning journey publicly — follow along on [LinkedIn](https://www.linkedin.com/in/theodore-daniel-akinkeji/)*
 
 ---
 

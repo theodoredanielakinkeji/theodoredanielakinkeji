@@ -124,7 +124,7 @@
 |---------|-------------|------|
 ## 📌 Featured Projects
 
-| Project | Description | Link | Tools Used |
+| Project | Description | Tools Used |
 |---|---|---|
 | [Network Security Basics](https://github.com/theodoredanielakinkeji/network-security-basics) | Network threat research, firewall configuration, WPA3 verification and live traffic analysis using Wireshark — DNS, HTTP, HTTPS/TLS captured and documented | Wireshark, Windows Defender Firewall |
 | [WebGoat Security Assessment](https://github.com/theodoredanielakinkeji/webgoat-security-assessment) | Web application vulnerability assessment — SQL Injection, XSS and CSRF identified, exploited and documented with mitigation recommendations | OWASP ZAP, WebGoat, Java |

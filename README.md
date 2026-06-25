@@ -19,6 +19,26 @@
 
 ---
 
+## 🛠️ Technical Skills
+
+**Cybersecurity**
+- Network Security & Monitoring
+- Web Application Security (SQL Injection, XSS, CSRF)
+- Vulnerability Assessment & Penetration Testing
+- Incident Response & Security Log Analysis
+- Firewall Configuration & Access Control
+
+**Tools**
+- OWASP ZAP | Wireshark | WebGoat
+- Windows Defender Firewall
+- Microsoft Office Suite
+
+**Systems & Networking**
+- LAN Setup & Administration
+- Server Configuration & Maintenance
+- IT Support & Troubleshooting
+- Electronic Health Records (EHR) Systems
+  
 ## 💼 Work Experience
 
 ### 🏛️ Lagos State Ministry of Innovative Science & Technology
@@ -102,6 +122,12 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
+## 📌 Featured Projects
+
+| Project | Description | Tools Used |
+|---|---|---|
+| [Network Security Basics](https://github.com/theodoredanielakinkeji/network-security-basics) | Network threat research, firewall configuration, WPA3 verification and live traffic analysis using Wireshark — DNS, HTTP, HTTPS/TLS captured and documented | Wireshark, Windows Defender Firewall |
+| [WebGoat Security Assessment](https://github.com/theodoredanielakinkeji/webgoat-security-assessment) | Web application vulnerability assessment — SQL Injection, XSS and CSRF identified, exploited and documented with mitigation recommendations | OWASP ZAP, WebGoat, Java |
 | 🔍 Network Security Audit Report | A mock security audit report documenting network vulnerabilities, risk levels, and recommendations — based on real-world sysadmin experience | https://github.com/theodoredanielakinkeji/network-security-audit/blob/main/README.md |
 | 🚨 Incident Response Playbook | A structured playbook for responding to common cybersecurity threats including phishing, brute force, and malware attacks | https://github.com/theodoredanielakinkeji/incident-response-playbook/blob/main/README.md |
 | 📚 Cybersecurity Study Notes | Documented notes and key takeaways from Cisco Networking Academy and Alison Academy cybersecurity courses | https://github.com/theodoredanielakinkeji/cybersecurity-study-notes-/blob/main/README.md |
@@ -119,6 +145,17 @@
 ---
 
 <div align="center">
+
+---
+
+## 📢 Recent Activity & Writing
+
+- 🔐 [Why Cybersecurity Matters — And Why I'm Learning It at Redynox](https://www.linkedin.com/in/theodore-daniel-akinkeji/recent-activity/all/) *(LinkedIn Article)*
+- 🎓 [Started My Cyber Security Internship at Redynox](https://www.linkedin.com/in/theodore-daniel-akinkeji/recent-activity/all/) *(LinkedIn Post)*
+
+> 💬 *I document my cybersecurity learning journey publicly — follow along on [LinkedIn](https://www.linkedin.com/in/theodore-daniel-akinkeji/)*
+
+---
 
 **Physics → IT → Cybersecurity. The journey continues. 🚀**
 
